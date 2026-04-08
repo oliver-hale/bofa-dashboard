@@ -1,0 +1,2 @@
+bank_name,quarter,anom_score,systemic_score,adjusted_score,is_anomaly,known_event,known_event_label
+Citigroup Inc,09/30/2001,0.4446113558909741,0.3932955617153867,0.051315794175587404,1,True,9/11 Terrorist Attacks - market-wide shock
